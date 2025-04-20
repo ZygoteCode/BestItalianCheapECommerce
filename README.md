@@ -1,0 +1,13 @@
+# Complete list of all Italian cheap e-commerce(s)
+* [Amazon](https://amazon.it/)
+* [Zalando](https://zalando.it/)
+* [Subito.it](https://subito.it/)
+* [Vinted](https://vinted.it/)
+* [eBay](https://ebay.it/)
+* [SHEIN](https://m.shein.com/it/)
+* [TEMU](https://www.temu.com/it)
+* [Phoneshock](https://www.phoneshock.it/)
+* [AliExpress](https://it.aliexpress.com/)
+# Best sites for finding the best prices
+* [Trovaprezzi.it](https://trovaprezzi.it/)
+* [Idealo.it](https://idealo.it/)
